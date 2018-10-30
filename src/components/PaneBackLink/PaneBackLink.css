@@ -1,0 +1,7 @@
+@import '@folio/stripes-components/lib/variables';
+
+.paneBackLink {
+  @media (--medium-up) {
+    display: none;
+  }
+}

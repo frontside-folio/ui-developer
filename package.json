@@ -2,6 +2,7 @@
   "name": "@folio/developer",
   "version": "1.5.0",
   "description": "Developer settings",
+  "main": "src/index.js",
   "repository": "folio-org/ui-developer",
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
@@ -54,6 +55,7 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
     "react-router-dom": "^4.0.0",
+    "react-router-prop-types": "^1.0.4",
     "redux-form": "^7.0.3"
   },
   "peerDependencies": {

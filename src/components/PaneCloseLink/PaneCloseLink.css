@@ -1,0 +1,15 @@
+@import '@folio/stripes-components/lib/variables';
+
+.paneCloseLinkX {
+  display: none;
+}
+
+@media (--medium-up) {
+  .paneCloseLinkArrow {
+    display: none;
+  }
+
+  .paneCloseLinkX {
+    display: inline-flex;
+  }
+}
